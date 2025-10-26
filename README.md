@@ -1,6 +1,6 @@
 <img width="1536" height="660" alt="banner github" src="https://github.com/user-attachments/assets/9874a76d-da62-4109-855e-ff73d9211e7a" />
-## **Hey there! 👋 ¡Hola! I am Aatir Hassan**
 
+## Hey there! 👋 ¡Hola! I am Aatir Hassan
 
 <!--
 **Aatir-hassan/Aatir-hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
