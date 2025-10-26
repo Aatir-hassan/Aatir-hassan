@@ -1,4 +1,4 @@
-<img  height="600" alt="dev img2" src="https://github.com/user-attachments/assets/e9f8d2c2-66ad-4d01-90f4-ba4946dca013"  alt="Profile banner"/>
+<img   alt="dev img2" src="https://github.com/user-attachments/assets/e9f8d2c2-66ad-4d01-90f4-ba4946dca013"  alt="Profile banner"/>
 
 
 <!--
