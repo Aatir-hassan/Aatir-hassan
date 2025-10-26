@@ -1,4 +1,5 @@
-<img src="C:\Users\Administrator\Downloads\dev img2.png" alt="Profile banner"/>
+<img src="width="1536" height="1024" alt="dev img2" src="https://github.com/user-attachments/assets/24adb55b-de2f-42fc-8197-87fcbbe775f1" />
+ alt="Profile banner"/>
 
 
 <!--
