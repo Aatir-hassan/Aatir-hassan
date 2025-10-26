@@ -1,5 +1,5 @@
-<img src="width="1536" height="1024" alt="dev img2" src="https://github.com/user-attachments/assets/24adb55b-de2f-42fc-8197-87fcbbe775f1" />
- alt="Profile banner"/>
+<img width="1536" height="1024" alt="dev img2" src="https://github.com/user-attachments/assets/96e92020-6c3b-4fce-bab5-b07307d61520" />
+
 
 
 <!--
