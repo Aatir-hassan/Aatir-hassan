@@ -5,12 +5,10 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-  <a href="https://twitter.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/></a>
-  <a href="https://linkedin.com/in/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="https://kaggle.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40" height="40"/></a>
-  <a href="https://instagram.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/></a>
-  <a href="https://hashnode.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Hashnode_logo.svg" alt="Hashnode" width="40" height="40"/></a>
-  <a href="https://leetcode.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="LeetCode" width="40" height="40"/></a>
+  <a href="https://x.com/AlGhazalli_i" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/aatir-hassan-144313247/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="https://www.instagram.com/p/DOi7rxEjw8I/?img_index=1" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/></a>
+  
 </p>
 
 ### ⚙️ Languages and Tools:
