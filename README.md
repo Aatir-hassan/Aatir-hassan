@@ -2,7 +2,7 @@
 
 # Hey there! 👋 I am Aatir Hassan
 
-<img align="right" src="https://github.com/devSouvik/devSouvik/blob/master/gif3.gif" alt="Developer Image" width="450"/>
+<img align="right" src="https://github.com/devSouvik/devSouvik/blob/master/gif3.gif" alt="Developer Image" width="550" height="500" />
 
 ### 🧭 My Philosophy  
 I believe technology is an art of precision — where creativity meets logic.  
