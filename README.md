@@ -1,7 +1,7 @@
 <img width="1536" height="560" alt="banner github" src="https://github.com/user-attachments/assets/9874a76d-da62-4109-855e-ff73d9211e7a" />
 
 # Hey there! 👋 I am Aatir Hassan
-### Driven by Curiosity
+# Driven by Curiosity
 <img 
   align="right" 
   src="https://github.com/devSouvik/devSouvik/blob/master/gif3.gif" 
