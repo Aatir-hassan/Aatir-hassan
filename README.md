@@ -33,7 +33,7 @@ To never stop learning — because innovation begins at curiosity.
   
 </p>
 
-### ⚙️ Languages and Tools:
+## ⚙️ Languages and Tools:
 
 ### Programming Languages:
 <p align="left">
