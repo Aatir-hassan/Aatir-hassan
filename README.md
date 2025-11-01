@@ -48,9 +48,7 @@ To never stop learning — because innovation begins at curiosity.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
-<svg width="55" height="55" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path fill="#06B6D4" d="M495.2 73.8c-2.3-10.4-13.6-13.1-21.7-6.2l-37.4 31.9c-48.5-27.2-108.6-43.1-172.1-43.1C102.3 56.4 0 171.6 0 317.9c0 53.3 18.5 102.3 50.1 143.9l37.2-31.7c-21.2-25.2-33.3-56.7-33.3-94.6 0-112.5 110.8-204.1 247.9-204.1 52.8 0 102.1 14.1 141.6 38.6l37.1-31.7zM358.3 331.7c-36.2 24.3-80.1 38.6-126.9 38.6-137.1 0-247.9-91.6-247.9-204.1 0-14.8 1.4-29.3 4.1-43.4L78 141.5c-20.9 25.1-33 56.5-33 94.4 0 112.5 110.8 204.1 247.9 204.1 52.7 0 102.1-14.1 141.6-38.6l37.2 31.7c-29.1 18.4-64.4 31.7-101.5 38.6l.3-162.3z"/>
-</svg>
+<img src="https://techicons.dev/icons/tailwindcss-light.svg" alt="Tailwind CSS" width="55" />
 </p>
 
 
