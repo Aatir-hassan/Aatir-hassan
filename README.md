@@ -46,8 +46,7 @@ To never stop learning — because innovation begins at curiosity.
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
- <svg class="h-12 w-12 text-blue-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="96" height="96" alt="Tailwind CSS Logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="45" height="45" alt="Tailwind CSS Logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
 
  
