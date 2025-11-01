@@ -6,8 +6,8 @@
   align="right" 
   src="https://github.com/devSouvik/devSouvik/blob/master/gif3.gif" 
   alt="Developer Image" 
-  width="220" 
-  height="420" 
+  width="720" 
+  height="520" 
   style="float: right; margin-left: 25px; margin-top: -10px; margin-right: 0; border-radius: 10px;"
 />
 
