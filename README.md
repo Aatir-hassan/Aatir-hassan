@@ -1,4 +1,4 @@
-<img width="1536" height="660" alt="banner github" src="https://github.com/user-attachments/assets/9874a76d-da62-4109-855e-ff73d9211e7a" />
+<img width="1536" height="560" alt="banner github" src="https://github.com/user-attachments/assets/9874a76d-da62-4109-855e-ff73d9211e7a" />
 
 # Hey there! 👋 I am Aatir Hassan
 
@@ -6,7 +6,7 @@
   align="right" 
   src="https://github.com/devSouvik/devSouvik/blob/master/gif3.gif" 
   alt="Developer Image" 
-  width="520" 
+  width="220" 
   height="420" 
   style="float: right; margin-left: 25px; margin-top: -10px; margin-right: 0; border-radius: 10px;"
 />
