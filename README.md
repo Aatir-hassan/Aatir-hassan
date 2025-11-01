@@ -14,7 +14,7 @@
 
 
 ### 🧭 My Philosophy  
-###I believe technology is an art of precision — where creativity meets logic.  
+### I believe technology is an art of precision — where creativity meets logic.  
 Every line of code should carry intent, every design choice should serve purpose,  
 and every product should make someone’s life simpler, smarter, and more connected.
 
