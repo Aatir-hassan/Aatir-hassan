@@ -2,15 +2,11 @@
 
 # Hey there! 👋 I am Aatir Hassan
 
-<img align="right" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" alt="Developer Illustration" width="350"/>
-
-
-
 <img 
   align="right" 
   src="https://github.com/devSouvik/devSouvik/blob/master/gif3.gif" 
   alt="Developer Image" 
-  width="520" 
+  width="550" 
   height="520" 
   border= "1px solid red"
   style="float: right; margin-left: 25px; margin-top: -10px; margin-right: 0; border-radius: 10px;"
