@@ -35,7 +35,7 @@ To never stop learning — because innovation begins at curiosity.
 
 ### ⚙️ Languages and Tools:
 
-##Programming Languages:
+## Programming Languages:
 <p align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
