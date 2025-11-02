@@ -6,7 +6,7 @@
   align="right" 
   src="https://github.com/devSouvik/devSouvik/blob/master/gif3.gif" 
   alt="Developer Image" 
-  width="550" 
+  width="450" 
   height="520" 
   border= "1px solid red"
   style="float: right; margin-left: 25px; margin-top: -10px; margin-right: 0; border-radius: 10px;"
