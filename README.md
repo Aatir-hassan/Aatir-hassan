@@ -1,5 +1,6 @@
-<img width="1536" height="560" alt="banner github" src="https://github.com/user-attachments/assets/9874a76d-da62-4109-855e-ff73d9211e7a" />
-
+<!-- <img alt="banner github" src="https://github.com/user-attachments/assets/9874a76d-da62-4109-855e-ff73d9211e7a" /> -->
+<img width="1536" height="461" alt="banner_github_resized" src="https://github.com/user-attachments/assets/83e91d5c-a8b5-46a9-9c42-599e361c87db" />
+" /> 
 # Hey there! 👋 I am Aatir Hassan
 # Driven by Curiosity
 <img 
