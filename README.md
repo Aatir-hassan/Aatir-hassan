@@ -30,7 +30,7 @@ To never stop learning — because innovation begins at curiosity.
 <p align="left">
   <a href="https://x.com/AlGhazalli_i" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/></a>
   <a href="https://www.linkedin.com/in/aatir-hassan-144313247/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="https://www.instagram.com/p/DOi7rxEjw8I/?img_index=1" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/></a>
+  <a href="https://www.instagram.com/_aatir____/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/></a>
   
 </p>
 
